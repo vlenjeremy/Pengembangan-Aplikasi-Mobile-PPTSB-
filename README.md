@@ -15,6 +15,10 @@ Antarmuka Pengguna yang Intuitif, agar semua anggota komunitas, tanpa terkecuali
 
 Dengan sistem yang terintegrasi, keakuratan dan keamanan data anggota dapat lebih terjamin, serta meningkatkan interaksi antaranggota dalam mendukung kemajuan komunitas. Diharapkan aplikasi ini dapat menjadi solusi berkelanjutan dalam menjawab tantangan yang selama ini dihadapi oleh PPTSB dalam mengelola administrasi anggotanya.
 
+
+NOTE : 
+
+## Pastikan anda masuk ke dalam branch master untuk mendapatkan source code nya
 ## 📦 Laravel Module as Submodule
 
 Folder `Laravel/pptsb` adalah **Git Submodule**.
