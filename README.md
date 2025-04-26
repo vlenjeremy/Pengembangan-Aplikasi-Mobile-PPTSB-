@@ -15,3 +15,18 @@ Antarmuka Pengguna yang Intuitif, agar semua anggota komunitas, tanpa terkecuali
 
 Dengan sistem yang terintegrasi, keakuratan dan keamanan data anggota dapat lebih terjamin, serta meningkatkan interaksi antaranggota dalam mendukung kemajuan komunitas. Diharapkan aplikasi ini dapat menjadi solusi berkelanjutan dalam menjawab tantangan yang selama ini dihadapi oleh PPTSB dalam mengelola administrasi anggotanya.
 
+## 📦 Laravel Module as Submodule
+
+Folder `Laravel/pptsb` adalah **Git Submodule**.
+
+### 🔧 Kenapa Submodule?
+Kami menggunakan submodule agar project Laravel tetap terpisah dari project utama (Flutter + lainnya), sehingga lebih modular dan mudah untuk dikelola secara terpisah.
+
+---
+
+### ⚠️ Penting untuk Developer Lain
+
+Jika kamu **baru saja meng-clone repository ini**, pastikan untuk juga meng-inisialisasi dan men-download submodule dengan perintah:
+
+```bash
+git submodule update --init --recursive
