@@ -1,0 +1,3 @@
+[submodule "Laravel/pptsb"]
+	path = Laravel/pptsb
+	url = https://github.com/vlenjeremy/pptsb-laravel.git
